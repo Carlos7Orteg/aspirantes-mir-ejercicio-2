@@ -1,2 +1,5 @@
-# aspirantes-mir-ejercicio-2
-S2 GIT Bonus
+David Zarate
+Dayra Alexandra Romero
+Luis Felipe Romero
+Ivan Sierra
+Daniela Diaz
